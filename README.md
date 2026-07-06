@@ -73,4 +73,7 @@ MSBuild LETMECHEAT\LETMECHEAT.vcxproj /p:Configuration=Release /p:Platform=x64
 
 Output: `LETMECHEAT\x64\Release\LETMECHEAT.dll`
 
+<img width="2559" height="1390" alt="image" src="https://github.com/user-attachments/assets/5efc3a2e-9af3-4f78-a18f-ae98d9457eb6" />
+
+
 No third-party dependencies — Windows SDK only.
