@@ -1,4 +1,4 @@
-# LETMECHEAT CD 1.13.00
+# LETMECHEAT CD 1.13.00 v1.1
 
 An ASI / DLL mod for `CrimsonDesert.exe` that ports seven Cheat Engine scripts into a
 single, self-contained injection DLL with per-feature on/off switches via an INI file.
